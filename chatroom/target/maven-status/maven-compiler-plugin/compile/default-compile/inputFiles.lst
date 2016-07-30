@@ -1,0 +1,9 @@
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\domain\MessagesInfo.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\domain\Message.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\web\controllers\ChatController.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\dao\impl\CassandraMessageDao.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\Application.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\service\ChatService.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\service\impl\InMemoryChatServiceImpl.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\dao\MessageDao.java
+F:\MyPetProjects\chatroom\src\main\java\net\ipsoft\training\chatroom\dao\impl\InMemoryDBMessageDao.java

@@ -1,0 +1,9 @@
+net\ipsoft\training\chatroom\web\controllers\ChatController.class
+net\ipsoft\training\chatroom\dao\MessageDao.class
+net\ipsoft\training\chatroom\service\impl\InMemoryChatServiceImpl.class
+net\ipsoft\training\chatroom\dao\impl\CassandraMessageDao.class
+net\ipsoft\training\chatroom\service\ChatService.class
+net\ipsoft\training\chatroom\dao\impl\InMemoryDBMessageDao.class
+net\ipsoft\training\chatroom\domain\MessagesInfo.class
+net\ipsoft\training\chatroom\domain\Message.class
+net\ipsoft\training\chatroom\Application.class

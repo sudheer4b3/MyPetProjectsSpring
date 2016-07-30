@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+    margin: 5%;
+    font-family: sans-serif;
+}
+
+#message {
+    width:  70%;
+    height: 5%
+}
+
+#chatRoomPane {
+    width: 70%;
+    height : 50%;
+    background-color:white;
+    margin-bottom: 4%;
+    border : 1px solid lightgrey;
+}
+
+#userName {
+    width: 70%;
+    margin-bottom: 4%;
+}
+
+#send {
+    position: relative;
+    top : -11px;
+    height: 5%
+}
